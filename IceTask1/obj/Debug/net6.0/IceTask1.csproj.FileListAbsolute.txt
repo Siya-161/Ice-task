@@ -1,0 +1,15 @@
+C:\Users\Siya\source\repos\IceTask1\IceTask1\obj\Debug\net6.0\IceTask1.csproj.AssemblyReference.cache
+C:\Users\Siya\source\repos\IceTask1\IceTask1\obj\Debug\net6.0\IceTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siya\source\repos\IceTask1\IceTask1\obj\Debug\net6.0\IceTask1.AssemblyInfoInputs.cache
+C:\Users\Siya\source\repos\IceTask1\IceTask1\obj\Debug\net6.0\IceTask1.AssemblyInfo.cs
+C:\Users\Siya\source\repos\IceTask1\IceTask1\obj\Debug\net6.0\IceTask1.csproj.CoreCompileInputs.cache
+C:\Users\Siya\source\repos\IceTask1\IceTask1\bin\Debug\net6.0\IceTask1.exe
+C:\Users\Siya\source\repos\IceTask1\IceTask1\bin\Debug\net6.0\IceTask1.deps.json
+C:\Users\Siya\source\repos\IceTask1\IceTask1\bin\Debug\net6.0\IceTask1.runtimeconfig.json
+C:\Users\Siya\source\repos\IceTask1\IceTask1\bin\Debug\net6.0\IceTask1.dll
+C:\Users\Siya\source\repos\IceTask1\IceTask1\bin\Debug\net6.0\IceTask1.pdb
+C:\Users\Siya\source\repos\IceTask1\IceTask1\obj\Debug\net6.0\IceTask1.dll
+C:\Users\Siya\source\repos\IceTask1\IceTask1\obj\Debug\net6.0\refint\IceTask1.dll
+C:\Users\Siya\source\repos\IceTask1\IceTask1\obj\Debug\net6.0\IceTask1.pdb
+C:\Users\Siya\source\repos\IceTask1\IceTask1\obj\Debug\net6.0\IceTask1.genruntimeconfig.cache
+C:\Users\Siya\source\repos\IceTask1\IceTask1\obj\Debug\net6.0\ref\IceTask1.dll
